@@ -1,0 +1,35 @@
+[33mcommit 862ec442ce99438b32a0d68c38fd80ec288a5fe7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fabricyo Barreto <bass.barreto@gmail.com>
+Date:   Sat Jun 20 16:58:12 2020 -0300
+
+    finalizado a criação/estilização do channelList e channelButton
+
+[33mcommit 8d468ea35f14a6063b018b1013bca00998d0ac7f[m
+Author: Fabricyo Barreto <bass.barreto@gmail.com>
+Date:   Sat Jun 20 15:32:27 2020 -0300
+
+    finalizado a criação/estilização do channelInfo
+
+[33mcommit d9f0b26fbc4e374189ff851476b3f36b2fa262e1[m
+Author: Fabricyo Barreto <bass.barreto@gmail.com>
+Date:   Sat Jun 20 15:08:45 2020 -0300
+
+    finalizado a criação/estilização do serverName
+
+[33mcommit 6d6896b7c003b5ef1fa41080c430c3e461143e06[m
+Author: Fabricyo Barreto <bass.barreto@gmail.com>
+Date:   Thu Jun 18 18:13:31 2020 -0300
+
+    finalizado a criação/estilização do serverList e serverButton
+
+[33mcommit c3fa21554a9f2ab332c33cd469b7be8d56f6df9d[m
+Author: Fabricyo Barreto <bass.barreto@gmail.com>
+Date:   Wed Jun 17 18:31:54 2020 -0300
+
+    Inicialização do Projeto
+
+[33mcommit 700ebef835e07bcfad56999d3cd3134813233c52[m
+Author: Fabricyo Barreto <65914504+gunners-pro@users.noreply.github.com>
+Date:   Wed Jun 17 18:19:05 2020 -0300
+
+    Initial commit
