@@ -29,12 +29,13 @@ export const Messages = styled.div`
 
 export const InputWrapper = styled.div`
     width: 100%;
+    height: auto;
     padding: 0 16px;
 `;
 
 export const Input = styled.input`
     width: 100%;
-    height: 44px;
+    height: calc(100% - 12px);
     padding: 0 10px 0 57px;
     border-radius: 7px;
     color: var(--white);
